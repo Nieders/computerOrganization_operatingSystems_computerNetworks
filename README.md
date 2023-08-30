@@ -1,2 +1,2 @@
-# computerOrganization_operatingSystems_computerNetworks
+# Computer Basics
 computer organization, operating systems and computer networks
